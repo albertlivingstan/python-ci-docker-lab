@@ -6,3 +6,4 @@ if __name__ == "__main__":
     # Indent these lines to be inside the main block
     print("Hello from Python CI Lab!")
     print("2 + 3 =", add(2, 3))
+# Triggering CI/CD Lab 2026
